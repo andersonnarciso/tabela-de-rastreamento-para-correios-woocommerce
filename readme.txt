@@ -2,7 +2,7 @@ Trace table of posts for the plugin Woocommerce Correios
 
 Contribuitor: andersonnarciso
 
-Donations: Click Her (Para Doações clique aqui)
+Donations: http://www.andersonnarciso.com/doacoes.html
 
 Tags: shipping, delivery, woocommer
 Requires at least: 3.5
