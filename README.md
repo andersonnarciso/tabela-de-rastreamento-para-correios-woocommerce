@@ -25,6 +25,8 @@ na página do produto, não precisando abrir uma janela pop-up.</p>
 
 <h2>Instalação</h2>
 
+A opção file_get_contents do PHP tem que estár ativa em seu servidor.
+
 Acesso o FTP de seu servidor, até o caminho /raiz-do-servidor/wp-content/plugins/woocommerce-correios/includes
 
 Renomeie o arquivo <strong>class-wc-correios-orders.php</strong> para <strong>class-wc-correios-orders.php.backup</strong>
