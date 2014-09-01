@@ -3,7 +3,7 @@ Trace table of posts for the plugin Woocommerce Correios
 
 <strong>Contribuitor:</strong> andersonnarciso
 
-Donations: <a href="http://andersonnarciso.com/doacoes.html">Click Her (Para Doações clique aqui)</a>
+Donations: <a target="_blank" href="http://andersonnarciso.com/doacoes.html">Click Her (Para Doações clique aqui)</a>
 
 Tags: shipping, delivery, woocommer<br />
 Requires at least: 3.5<br />
