@@ -13,21 +13,31 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 <h2>Description</h2>
 
-<p>Implementing direct trace on the page of the application.
+<p>
+Who uses WooCommerce knows how important the creation of the post Plugin < br/> to WooComerce made by our colleague claudiosmweb, thinking about it and in one possible implementation < br/> say leaves a little more beautiful the functioning of the plugin, i decided to implement the table of posts < br/> directly within the customer request page, is something extremely simple but that of a touch < br/> sophisticated your online store with WooCommerce.
+<br />
+Thank you Claudio for this great tool!
+</p>
+
+<p>Implementing direct trace on the page of the application.<br />
 Thus the trace table of posts will be displayed directly
 on the product page, no need to open a pop-up window.</p>
 
 <h2>Descrição em Português</h2>
 
+<p>
+Quem utiliza WooCommerce sabe o quanto foi importante a criação do Plugin dos Correios<br /> para Woocomerce feita pelo nosso colega claudiosmweb, pensando nisso e em uma possível implementação<br />que digamos deixa um pouco mais bonito o funcionamento do plugin, resolvi implementar a tabela dos correios<br />diretamente dentro da página do pedido do cliente, é algo extremamente simples mas que da um toque<br />sofisticado a sua loja online com WooCommerce.
+
+Obrigado Claudio por esta ótima ferramenta!</p>
+
 <p>Implementando rastreamento direto na página do pedido.<br />
-Desta forma a tabela de rastreamento dos correios será visualizada diretamente
-na página do produto, não precisando abrir uma janela pop-up.</p>
+Desta forma a tabela de rastreamento dos correios será visualizada diretamentena página do produto, <br />não precisando abrir uma janela pop-up.</p>
 
 <h2>Instalação</h2>
 
 A opção file_get_contents do PHP tem que estár ativa em seu servidor.
 
-Acesso o FTP de seu servidor, até o caminho /raiz-do-servidor/wp-content/plugins/woocommerce-correios/includes
+Acesse o FTP de seu servidor, a siga o caminho /raiz-do-servidor/wp-content/plugins/woocommerce-correios/includes
 
 Renomeie o arquivo <strong>class-wc-correios-orders.php</strong> para <strong>class-wc-correios-orders.php.backup</strong>
 
