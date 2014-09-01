@@ -1,4 +1,4 @@
-Trace table Correios Woocommerce
+Trace table of posts for the plugin Woocommerce Correios 
 ==================================
 
 <strong>Contribuitor:</strong> andersonnarciso
