@@ -167,7 +167,7 @@ class WC_Correios_Orders {
     
        if(count($tabela) == 1){
     	   
-    		return $tabela[0];  
+    		return utf8_encode($tabela[0]);  
        
        }else{
     	   
